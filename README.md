@@ -1,5 +1,5 @@
-## Hmaps
-# Urban Mobility Platform
+# Hmaps
+## Urban Mobility Platform
 Our mission is to optimize multi modal urban mobility for social good. 
 
 Objective:
